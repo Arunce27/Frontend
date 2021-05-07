@@ -1,4 +1,18 @@
+.centerp {
+    margin: auto;
+    width: 25%;
+    border: 5px solid rgb(255, 187, 0);
+    border-radius: 100px;
+    padding: 10px;
+    background-color: #FFDBAC
+  }
 body {
     background-image: url("img/bwp.jpg");
     background-color: #cccccc;
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 1px 1px rgb(255, 255, 255);
+    text-align: center;
+}
+ul {
+    display: inline-block;
 }
