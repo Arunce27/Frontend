@@ -7,7 +7,7 @@
     background-color: #FFDBAC
   }
 body {
-    background-image: url("img/bwp.jpg");
+    background-image: url("../img/bwp.jpg");
     background-color: #cccccc;
     color: rgb(0, 0, 0);
     text-shadow: 1px 1px 1px rgb(255, 255, 255);
