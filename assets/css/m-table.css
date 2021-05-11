@@ -6,7 +6,7 @@ body {
 .table {
   border: solid 2px rgb(0, 0, 0);
   background-color: rgb(194, 194, 194);
-  border-collapse: collapse;
+  border-collapse: separate;
 }
 .t-name {
   font-size: x-large;
@@ -20,7 +20,7 @@ th {
   border-right: solid 2px black;
   border-bottom: solid 2px black;
   background-color: rgb(255, 187, 0);
-  padding: 10px;
+  padding: 15px;
 }
 
 td {
